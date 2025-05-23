@@ -115,4 +115,11 @@ color: white;
 
 .content{
     background-color: #e3e7f0;
+    display: grid;
+    grid-template-columns: 70% 30%;
+}
+
+.cards{
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
